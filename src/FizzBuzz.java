@@ -38,5 +38,6 @@ class FizzBuzz {
             System.out.println(i);
 
         }
+        System.out.println("");
     }
 }
