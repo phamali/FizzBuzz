@@ -33,6 +33,7 @@ class FizzBuzz {
             }
 
             i++;
+            System.out.println(" ");
         }
     }
 }
